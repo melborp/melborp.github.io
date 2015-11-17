@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://melborp.net" # the base hostname & protocol for your site
 twitter_username: melborp
 github_username:  melborp
-paginate: 1
+paginate: 5
 
 # Build settings
 markdown: kramdown

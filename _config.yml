@@ -15,21 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://melborp.net" # the base hostname & protocol for your site
 twitter_username: melborp
 github_username:  melborp
-paginate: 1
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true

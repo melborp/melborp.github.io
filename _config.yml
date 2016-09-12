@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "DevOps, ALM, Continuous Deployment, Delivery, Integration with a touch of Architecture and Coding"
+title: > # DevOps, ALM, Continuous Deployment, Delivery, Integration with a touch of Architecture and Coding
 email: taavik@melborp.net
 description: > # Welcome to my corner of gems, tips and trinkets regarding
   DevOps, Application Lifecycle Management, Contionuous Deployment, Delivery and Integration,

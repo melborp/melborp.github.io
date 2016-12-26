@@ -27,7 +27,7 @@ github_username:  melborp
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-architect
 repository: melborp/melborp.github.io
 
 google_analytics: UA-2226238-1

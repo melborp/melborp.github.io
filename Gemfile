@@ -21,7 +21,7 @@ gem "jekyll-theme-architect", "0.0.3"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-feed", "0.8.0"
-   gem "github-pages-health-check", "1.3.0"
+   #gem "github-pages-health-check", "1.3.0"
    gem "jekyll-github-metadata", "2.2.0"
    gem "jekyll-paginate", "1.1.0"
    gem "jekyll-relative-links", "0.2.1"

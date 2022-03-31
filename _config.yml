@@ -28,7 +28,7 @@ title: DevOps, Azure, Cloud, Automation with a touch of Architecture and Coding
 email: taavik@melborp.net
 description: >- # this means to ignore newlines until "baseurl:"
   DevOps, Azure, Cloud, Automation, Contionuous Deployment, Delivery and Integration,
-  Build and bits and bobs mixed with architecture, coding and technology topics. I try to 
+  Pipelines, bits and bobs mixed with architecture, coding and technology topics. I try to 
   write what i find useful, like to share or need written down somewhere so i dont have to keep
   it in my already overloaded head. You are welcome to dig deep and hopefully find something useful.
 baseurl: "" # the subpath of your site, e.g. /blog
